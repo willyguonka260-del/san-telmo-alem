@@ -1,0 +1,6 @@
+# Robots.txt para San Telmo Almacén de Alimentos (Leandro N. Alem, Misiones)
+# PROVISORIO: Bloqueo total de indexación para despliegue provisorio en Netlify.
+# Activar 'Allow: /' únicamente con el OK final del cliente y dominio definitivo.
+User-agent: *
+Disallow: /
+

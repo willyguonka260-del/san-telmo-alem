@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://santelmo.alem/</loc>
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="es-AR" href="https://santelmo.alem/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://santelmo.alem/?lang=pt" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://santelmo.alem/?lang=en" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://santelmo.alem/" />
+    <image:image>
+      <image:loc>https://santelmo.alem/images/santelmo_08.webp</image:loc>
+      <image:title>Fachada Histórica Nocturna de San Telmo Almacén de Alimentos (1919)</image:title>
+      <image:caption>Galpón histórico de yerba mate de 1919 en Leandro N. Alem, Misiones</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://santelmo.alem/images/santelmo_07.webp</image:loc>
+      <image:title>Bife a las Brasas con Papas Rosty</image:title>
+      <image:caption>Cortes vacunos a las brasas de quebracho colorado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://santelmo.alem/images/santelmo_05.webp</image:loc>
+      <image:title>Centro de Costilla Braseada con Zanahorias</image:title>
+      <image:caption>Cocción lenta y fondo de huesos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://santelmo.alem/images/santelmo_04.jpg</image:loc>
+      <image:title>Pizzas de Masa Madre al Horno de Barro</image:title>
+      <image:caption>Fermentación lenta de 48 hs al horno de leña</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://santelmo.alem/images/santelmo_11.webp</image:loc>
+      <image:title>Hamburguesa Artesanal San Telmo con Papas Cubo</image:title>
+      <image:caption>Doble carne seleccionada y chutney de bacon</image:caption>
+    </image:image>
+  </url>
+</urlset>
