@@ -1,4 +1,4 @@
-// Service Worker para Notificaciones Web Push - San Telmo Almacén de Alimentos (1919)
+// Service Worker para Notificaciones Web Push - San Telmo Almacén de Alimentos (1920)
 
 self.addEventListener('install', (event) => {
   self.skipWaiting();
